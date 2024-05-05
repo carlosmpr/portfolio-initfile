@@ -30,7 +30,7 @@ This portfolio template is expertly designed to highlight the professional work 
 
 ## Video Instruction
 
-[Video Tutorial](https://youtube.com/example-tutorial)
+[Video Tutorial](https://www.youtube.com/watch?v=YcsXpRVNbRY&t=143s&ab_channel=codingwithcarlosp)
 
 ## Setup Instructions
 
